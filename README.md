@@ -1,4 +1,4 @@
-# Business-Intelligence
+# Business-Programming
 
 Steps to run the code.
 
